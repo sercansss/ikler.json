@@ -1,2 +1,2 @@
 # ikler.json
-by.sercanizim
+["by.sercanizim"]
